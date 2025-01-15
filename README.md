@@ -6,10 +6,10 @@
 
 <div align = "center">
   <a href="https://github.com/wos83/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wos83&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=wos83&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
   </a>
   <a href="https://github.com/wos83/">  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wos83&layout=compact&langs_count=99&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wos83&layout=compact&langs_count=99&theme=tokyonight"/>
   </a>
 </div>
 
