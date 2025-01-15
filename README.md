@@ -1,6 +1,4 @@
-<div align = "center"> 
-  ## Hello world!   🖥 ωιllιαи ѕαиτοѕ
-</div>
+## Hello world!   🖥 ωιllιαи ѕαиτοѕ
 
 <br>
 
