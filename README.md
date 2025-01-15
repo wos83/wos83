@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/wos83">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wos83&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wos83&langs_count=99&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wos83&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wos83&layout=compact&langs_count=99&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="wos83-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
